@@ -1,0 +1,35 @@
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.exe.config
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.exe
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.pdb
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Properties.Resources.resources
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.exe
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.pdb
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.EliminarAlumno.resources
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.frmConsulta.resources
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.insertarAlumno.resources
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Materia1.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.exe.config
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.exe
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.pdb
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\MySql.Data.dll
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Google.Protobuf.dll
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Renci.SshNet.dll
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\MySql.Data.xml
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.AssemblyReference.cache
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.EliminarAlumno.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.frmConsulta.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.insertarAlumno.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Materia1.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Properties.Resources.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.GenerateResource.cache
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.CopyComplete
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.exe
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.pdb
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Curso.resources
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Actualizar.resources

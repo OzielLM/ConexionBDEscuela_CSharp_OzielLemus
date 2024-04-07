@@ -1,0 +1,23 @@
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.exe.config
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.exe
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\bin\Debug\Base_de_datos_proyecto.pdb
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Form1.resources
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Properties.Resources.resources
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.exe
+C:\Users\danie\source\repos\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.pdb
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.AssemblyReference.cache
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.exe
+C:\Users\oziel\OneDrive - Universidad De La Salle Bajio\Documentos\Segundo Semestre\GBD\Base_de_datos_proyecto\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.pdb
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.AssemblyReference.cache
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.EliminarAlumno.resources
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.frmConsulta.resources
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.insertarAlumno.resources
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Materia1.resources
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.Properties.Resources.resources
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.GenerateResource.cache
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.csproj.CoreCompileInputs.cache
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.exe
+E:\Proyectos para subir\Base_de_datos_proyecto\Base_de_datos_proyecto\obj\Debug\Base_de_datos_proyecto.pdb
